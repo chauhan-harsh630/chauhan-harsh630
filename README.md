@@ -1,16 +1,74 @@
 ## Hi there 👋
 
-<!--
-**chauhan-harsh630/chauhan-harsh630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Harsh Chauhan 👋
 
-Here are some ideas to get you started:
+🎓 BCA Student  
+💻 Aspiring Software Engineer  
+🚀 Learning by building real-world projects  
+🔐 Interested in Web Development, AI, and Cybersecurity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+- Currently pursuing **BCA**
+- Strong focus on fundamentals + projects
+- Learning backend and AI step by step
+- Sharing my learning journey publicly
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🚀 Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+</p>
+
+### 🧰 Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+- Advanced JavaScript
+- Backend Development
+- AI + Full Stack Projects
+- Data Structures & Problem Solving
+
+---
+
+## 🚧 Projects
+- 🌦️ Weather App (API based)
+- 🧠 JavaScript Mini Projects
+- 🤖 AI + Full Stack Sprint (In Progress)
+
+---
+
+## 🎯 Goals
+- Become a strong Software Engineer
+- Build production-ready full-stack projects
+- Move into Cybersecurity & AI domains
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn: add-your-link
+- Instagram: add-your-link
+
+---
+
+⭐ Follow my journey as I grow through real projects.
