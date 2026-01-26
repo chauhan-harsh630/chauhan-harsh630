@@ -66,8 +66,8 @@
 ---
 
 ## 🔗 Connect With Me
-- LinkedIn: add-your-link
-- Instagram: add-your-link
+- LinkedIn: www.linkedin.com/in/harsh-chauhan-a896b737a
+- Instagram:https://www.instagram.com/the_cyberpath?igsh=dWJrZGp6OWw4azRt 
 
 ---
 
