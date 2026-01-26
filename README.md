@@ -52,10 +52,12 @@
 ---
 
 ## 🚧 Projects
+- 📝 Task Manager App
+- 💵 Expense Tracker
+- 🧑‍🎓 Student Management System
 - 🌦️ Weather App (API based)
 - 🧠 JavaScript Mini Projects
 - 🤖 AI + Full Stack Sprint (In Progress)
-
 ---
 
 ## 🎯 Goals
