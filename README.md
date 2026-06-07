@@ -48,11 +48,7 @@ Full Stack Developer with hands-on experience building REST APIs, authentication
 
 ## Featured Projects
 
-### [DevTrack](https://github.com/harsh-chauhan/devtrack) — SaaS Learning Tracker *(In Progress)*
-A full-stack SaaS dashboard for developers to track their learning progress, streaks, and goals.  
-**Stack:** React · Node.js · Express · MongoDB · Redis · JWT Auth · Docker  
-> Production-ready architecture with caching, background jobs via Bull, and refresh token rotation.
-
+### 
 ---
 
 ### [Task Manager App](https://github.com/harsh-chauhan/task-manager)
@@ -67,9 +63,7 @@ Client-side expense tracking app with category filters and spending visualizatio
 
 ---
 
-### [Student Management System](https://github.com/harsh-chauhan/student-management)
-CRUD application for managing student records with a clean backend API.  
-**Stack:** Node.js · Express · MongoDB
+###
 
 ---
 
