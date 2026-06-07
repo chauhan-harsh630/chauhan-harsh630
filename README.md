@@ -144,7 +144,11 @@ Planned Features:
 
 I actively document my learning journey and software engineering concepts.
 
-🔗 **Full Stack Engineering Notes**
+ <a href="https://github.com/chauhan-harsh630/fullstack-engineering-notes">
+   
+ 🔗 **Full Stack Engineering Notes**
+ 
+ </a>
 
 Topics include:
 
