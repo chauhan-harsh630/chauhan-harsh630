@@ -1,197 +1,252 @@
-# Harsh Chauhan
+<h1 align="center">
+  Hi 👋, I'm Harsh Chauhan
+</h1>
 
-**Full Stack Developer** · BCA Student · MERN Stack Enthusiast · Building practical web applications
+<h3 align="center">
+A Full Stack Developer • BCA Student • Problem Solver • Future Cybersecurity Engineer
+</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/harsh-chauhan-a896b737a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/the_cyberpath">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+PERN+Developer;Building+Projects+Every+Week;Learning+DSA+and+System+Design;Future+Cybersecurity+Engineer" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=harsh-chauhan-dev&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/harsh-chauhan-dev?label=Followers&style=social" />
 </p>
 
 ---
 
-## 👋 About Me
+# 🚀 About Me
 
-Hi, I'm Harsh Chauhan.
+```js
+class HarshChauhan {
+    constructor() {
+        this.name = "Harsh Chauhan";
+        this.pronouns = "He/Him";
+        this.education = "BCA Student";
+        this.role = "Full Stack Developer";
 
-I am a BCA student and Full Stack Developer passionate about building scalable web applications, learning backend architecture, and solving real-world problems through technology.
+        this.code = [
+            "JavaScript",
+            "TypeScript",
+            "C++",
+            "Python"
+        ];
 
-I believe in learning in public, documenting my journey, and continuously improving my software engineering skills.
+        this.frontend = [
+            "React",
+            "HTML",
+            "CSS",
+            "Tailwind CSS"
+        ];
 
-### Currently Working On
+        this.backend = [
+            "Node.js",
+            "Express.js"
+        ];
 
-* MERN Stack Development
-* Data Structures & Algorithms (Java/C++)
-* Backend System Design Fundamentals
-* Building **the_cyberpath**
-* Exploring AI API integrations
+        this.database = [
+            "PostgreSQL",
+            "MongoDB"
+        ];
+
+        this.currentlyLearning = [
+            "MERN",
+            "PERN",
+            "System Design",
+            "DSA"
+        ];
+
+        this.projects = [
+            "CAMPSFlow",
+            "Authentication Service",
+            "MiniDB",
+            "Note App"
+        ];
+
+        this.goal = "Build scalable software and become a Software Engineer & Cybersecurity Specialist.";
+    }
+}
+
+const me = new HarshChauhan();
+console.log(me);
+```
 
 ---
 
-## 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square\&logo=javascript)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square\&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-black?style=flat-square\&logo=cplusplus)
-![C](https://img.shields.io/badge/C-black?style=flat-square\&logo=c)
-![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+---
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-black?style=flat-square\&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=flat-square\&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square\&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+
+---
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=flat-square\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat-square\&logo=express)
-![REST API](https://img.shields.io/badge/REST_API-black?style=flat-square)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+---
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square\&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/Mongoose-black?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+---
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-black?style=flat-square\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square\&logo=postman)
-![VSCode](https://img.shields.io/badge/VS_Code-black?style=flat-square\&logo=visualstudiocode)
+Git • GitHub • VS Code • Postman • Linux • PGAdmin • JWT • REST APIs
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏥 Hospital Management System (In Progress)
-
-**Stack:** MERN Stack
-
-* JWT Authentication
-* Doctor & Patient Management
-* Appointment Scheduling
-* Dashboard Analytics
-* Secure Backend APIs
-
----
-
-### 📝 NoteApp
-
-**Stack:** MERN Stack
-
-* User Authentication
-* Full CRUD Operations
-* Protected Routes
-* MongoDB Database Integration
-
----
-
-### 💰 Expense Tracker
-
-**Stack:** MERN Stack / JavaScript
-
-* Income & Expense Tracking
-* Budget Monitoring
-* Dynamic Transaction Updates
-* Responsive UI
-
----
-
-### 🌤 Weather App
-
-**Stack:** React + Weather API
-
-* Real-time Weather Data
-* Location Search
-* API Integration
-* Responsive Design
-
----
-
-### 🍔 Food Court Management System
-
-**Stack:** C++ OOP
-
-* Authentication System
-* Stall Management
-* Menu Management
-* Customer Order Processing
-
----
-
-### 🛍 ShopVerse (Upcoming)
-
-**Stack:** MERN Stack
-
-Planned Features:
-
-* Product Catalog
-* Cart & Checkout
-* Authentication
-* Admin Dashboard
-* Order Management
-
----
-
-## 📚 Engineering Notes
-
-I actively document my learning journey and software engineering concepts.
-
- <a href="https://github.com/chauhan-harsh630/fullstack-engineering-notes">
-   
- 🔗 **Full Stack Engineering Notes**
- 
- </a>
-
-Topics include:
-
-* Operating Systems
-* Computer Networks
-* DBMS
-* Backend Development
-* System Design Basics
-* Interview Preparation
-
----
-
-## 📈 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chauhan-harsh630&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chauhan-harsh630&theme=tokyonight" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh-chauhan-dev&show_icons=true&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhan-harsh630&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-chauhan-dev&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 🔥 GitHub Streak
 
-* [ ] Complete Hospital Management System
-* [ ] Build and launch DevTrack SaaS
-* [ ] Solve 300+ DSA Problems
-* [ ] Land a Full Stack Internship
-* [ ] Contribute to Open Source
-* [ ] Strengthen Backend & System Design Skills
+<p align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=harsh-chauhan-dev&theme=tokyonight"/>
 
-### ⚡ Fun Fact
-
-When I'm not debugging code, I'm experimenting with APIs, building side projects, and exploring cybersecurity concepts through **the_cyberpath**.
+</p>
 
 ---
 
-⭐ If you like my projects, feel free to star them and connect with me.
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-chauhan-dev&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions to generate this animation.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/harsh-chauhan-dev/harsh-chauhan-dev/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎓 CAMPSFlow
+Student Management System that automates attendance, student records, task management, and academic workflows.
+
+**Tech:** MERN Stack
+
+---
+
+### 📝 Note App
+
+A productivity application for managing daily notes and tasks with a clean UI.
+
+**Tech:** React • Node.js • MongoDB
+
+---
+
+### 🔐 Authentication Service
+
+A secure authentication backend supporting:
+
+- JWT Authentication
+- Refresh Tokens
+- PostgreSQL
+- Secure Cookies
+- Email Verification Ready
+
+---
+
+### 💾 MiniDB
+
+A lightweight database engine built to understand how databases work internally.
+
+---
+
+### 🍄 Mario Game
+
+A JavaScript platformer inspired by Super Mario built while learning game development.
+
+---
+
+# 🎯 Current Goals
+
+- ✅ Solve DSA every day
+- ✅ Build production-ready backend projects
+- ✅ Learn System Design
+- ✅ Master MERN & PERN
+- ✅ Prepare for Software Engineering Interviews
+- ✅ Explore Cybersecurity
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/harsh-chauhan-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Developer Quote
+
+> "Every bug is a lesson. Every project is a step. Every commit is progress."
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+If you like my projects, consider giving them a ⭐
+
+</p>
