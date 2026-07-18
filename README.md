@@ -122,17 +122,7 @@ Git • GitHub • VS Code • Postman • Linux • PGAdmin • JWT • REST AP
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh-chauhan-dev&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-chauhan-dev&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=harsh-chauhan-dev&theme=tokyonight"/>
+<img height="170" src="https://harsh-chauhan-dev.vercel.app/api/top-langs/?username=harsh-chauhan-dev&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -142,7 +132,7 @@ Git • GitHub • VS Code • Postman • Linux • PGAdmin • JWT • REST AP
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-chauhan-dev&theme=tokyo-night"/>
+<img src="https:/harsh-chauhan-dev.vercel.app/graph?username=harsh-chauhan-dev&theme=tokyo-night"/>
 
 </p>
 
