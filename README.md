@@ -100,7 +100,6 @@ console.log(me);
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
 ---
 
@@ -221,15 +220,15 @@ A JavaScript platformer inspired by Super Mario built while learning game develo
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-chauhan-a896b737a/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:hc2668012@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/https://leetcode.com/u/Harsh_Chauhan123/">
 <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
 </a>
 
