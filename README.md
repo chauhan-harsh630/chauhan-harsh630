@@ -124,27 +124,28 @@ console.log(me);
 
 ### Tools
 
-Git • GitHub • VS Code • Postman • Linux • PGAdmin • JWT • REST APIs
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh-chauhan-dev&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://harsh-chauhan-dev.vercel.app/api/top-langs/?username=harsh-chauhan-dev&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-chauhan-dev&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https:/harsh-chauhan-dev.vercel.app/graph?username=harsh-chauhan-dev&theme=tokyo-night"/>
+<img src="https://github-readme-stats-tau-ashen.vercel.app/api?username=harsh-chauhan-dev&show_icons=true&theme=tokyonight"/>
 
 </p>
 
@@ -210,7 +211,7 @@ A JavaScript platformer inspired by Super Mario built while learning game develo
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-chauhan-a896b737a/">
+<a href="https://www.linkedin.com/in/harsh-chauhan-a896b737a/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -218,7 +219,7 @@ A JavaScript platformer inspired by Super Mario built while learning game develo
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/https://leetcode.com/u/Harsh_Chauhan123/">
+<a href="https://leetcode.com/u/Harsh_Chauhan123/">
 <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
 </a>
 
