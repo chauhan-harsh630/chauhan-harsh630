@@ -17,6 +17,18 @@ A Full Stack Developer • BCA Student • Problem Solver • Future Cybersecuri
 
 ---
 
+#  GitHub Activity
+
+>  📈 Coding Journey
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/harsh-chauhan-dev/harsh-chauhan-dev/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
 # 🚀 About Me
 
 ```js
@@ -133,18 +145,6 @@ Git • GitHub • VS Code • Postman • Linux • PGAdmin • JWT • REST AP
 <p align="center">
 
 <img src="https:/harsh-chauhan-dev.vercel.app/graph?username=harsh-chauhan-dev&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions to generate this animation.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/harsh-chauhan-dev/harsh-chauhan-dev/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
